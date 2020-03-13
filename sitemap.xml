@@ -1,71 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dogstudio.co/app/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="app/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.0" -->
 <!-- generated-on="March 12, 2020 9:58 pm" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
-		<loc>https://dogstudio.co/sitemap-misc.xml</loc>
+		<loc>sitemap-misc.xml</loc>
 		<lastmod>2020-03-10T14:50:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-11.xml</loc>
+		<loc>sitemap-pt-cases-2019-11.xml</loc>
 		<lastmod>2019-11-12T08:22:31+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-09.xml</loc>
+		<loc>sitemap-pt-cases-2019-09.xml</loc>
 		<lastmod>2019-09-10T09:38:47+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-08.xml</loc>
+		<loc>sitemap-pt-cases-2019-08.xml</loc>
 		<lastmod>2019-11-09T21:22:21+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-06.xml</loc>
+		<loc>sitemap-pt-cases-2019-06.xml</loc>
 		<lastmod>2019-08-12T09:46:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-05.xml</loc>
+		<loc>sitemap-pt-cases-2019-05.xml</loc>
 		<lastmod>2019-08-12T09:47:00+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-04.xml</loc>
+		<loc>sitemap-pt-cases-2019-04.xml</loc>
 		<lastmod>2019-11-06T16:35:29+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-cases-2019-03.xml</loc>
+		<loc>sitemap-pt-cases-2019-03.xml</loc>
 		<lastmod>2019-08-12T09:47:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-careers-2020-03.xml</loc>
+		<loc>sitemap-pt-careers-2020-03.xml</loc>
 		<lastmod>2020-03-10T14:50:04+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-careers-2019-08.xml</loc>
+		<loc>sitemap-pt-careers-2019-08.xml</loc>
 		<lastmod>2019-08-16T08:23:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-careers-2019-03.xml</loc>
+		<loc>sitemap-pt-careers-2019-03.xml</loc>
 		<lastmod>2019-08-12T09:47:53+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-careers-2018-03.xml</loc>
+		<loc>sitemap-pt-careers-2018-03.xml</loc>
 		<lastmod>2020-03-10T14:45:39+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-post-2019-11.xml</loc>
+		<loc>sitemap-pt-post-2019-11.xml</loc>
 		<lastmod>2019-11-05T13:52:47+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-page-2019-08.xml</loc>
+		<loc>sitemap-pt-page-2019-08.xml</loc>
 		<lastmod>2019-08-22T08:37:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-page-2019-04.xml</loc>
+		<loc>sitemap-pt-page-2019-04.xml</loc>
 		<lastmod>2019-08-16T07:54:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-page-2019-02.xml</loc>
+		<loc>sitemap-pt-page-2019-02.xml</loc>
 		<lastmod>2019-08-12T09:46:17+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://dogstudio.co/sitemap-pt-page-2018-03.xml</loc>
+		<loc>sitemap-pt-page-2018-03.xml</loc>
 		<lastmod>2019-08-16T09:00:54+00:00</lastmod>
 	</sitemap>
 </sitemapindex><!-- Request ID: 8fc1e4ecb1f09d2ced24712ce18a3bf8; Queries for sitemap: 7; Total queries: 22; Seconds: 0; Memory for sitemap: 0MB; Total memory: 2MB -->
